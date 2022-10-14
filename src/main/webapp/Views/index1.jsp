@@ -10,7 +10,7 @@
 
 </head>
 <body style="background-color:yellow;" >
-<h1 align="center">Employee Registraion Form</h1>
+<h1 align="center">Employee Registraion Form-SREE</h1>
 
 
 <form action="register" modelAttribute="student" method="POST">

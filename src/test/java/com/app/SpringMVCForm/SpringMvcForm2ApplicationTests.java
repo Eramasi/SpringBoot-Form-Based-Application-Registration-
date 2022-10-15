@@ -9,5 +9,7 @@ class SpringMvcForm2ApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	
+	System.out.println("");
 
 }

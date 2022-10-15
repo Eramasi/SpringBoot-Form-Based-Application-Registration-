@@ -10,6 +10,6 @@ class SpringMvcForm2ApplicationTests {
 	void contextLoads() {
 	}
 	
-	System.out.println("");
+	//System.out.println("");
 
 }
